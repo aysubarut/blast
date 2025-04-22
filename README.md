@@ -38,7 +38,7 @@ All deliverables are written to the **`results/`** directory:
 | Shared between (a) & (b) | **10** |
 
 **Which criterion retrieves more candidates?**  
-Criterion **(a)** retrieves *31* hits, whereas criterion **(b)** retrieves *19*. Therefore, the identity filter is less stringent and returns more candidates than the E‑value filter.
+Criterion **(a)** retrieves *31* hits, whereas criterion **(b)** retrieves *19*. Therefore, the identity filter (a) is less stringent and retrieves more candidates than the E‑value filter (b).
 
 ---
 
