@@ -9,7 +9,7 @@
 ## 0  Quick‑start
 
 ```bash
-# run the whole pipeline (all three tasks)
+# run the whole pipeline 
 python blast_project.py \
        --blast Project1_BLASToutput_2024.txt \
        --fasta wildolive_GCF_002742605.1_protein.faa \
