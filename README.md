@@ -44,7 +44,7 @@ Criterion **(a)** retrieves *31* hits, whereas criterion **(b)** retrieves *19*.
 
 ### 2) Heat‑map of shared hits
 
-![Heat‑map of shared BLAST hits](results/shared_hits_heatmap.png)
+![Heat‑map of shared BLAST hits](shared_hits_heatmap.png)
 
 *Figure 1 – Each row represents one of the 10 shared BLAST hits. Rows are sorted by decreasing identity.  
 Left column: % identity (viridis colour‑map) • Right column: E‑value (magma‑r).*  
