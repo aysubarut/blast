@@ -1,6 +1,6 @@
 # Project 1 – Filtering BLAST Hits & Visualising Shared Best Hits
 
-**Course:** Linux and Python for Bioinformatics
+**Course:** Linux und Python für Biologiestudierende
 **Author:** *Aysu Barut*  
 **Date:** 22‑Apr‑2025
 
